@@ -56,7 +56,7 @@ AUTHOR_EMAIL = "1064011319@qq.com"
 作者的邮件地址
 """
 
-URL = "https://github.com/Benury/"
+URL = "https://github.com/Benury/PyDBHelper.git"
 """
 你这个包的项目地址，如果有，给一个吧，没有你直接填写在PyPI你这个包的地址也是可以的
 """
